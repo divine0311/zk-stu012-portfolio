@@ -13,7 +13,7 @@ Soft skill
 
 Critcal thinking
 
-linkedin =
+linkedin = https://www.com.linkedin/in/sakshi
 
 
 
