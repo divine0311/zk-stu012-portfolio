@@ -11,10 +11,10 @@ Communication skill
 Soft skill 
 
 
-Critcal thinking
+**My Profile**
 
-linkedin = https://www.com.linkedin/in/sakshi
+linkedin = https://www.linkedin.com/in/sakshigill0311
 
-
+Email  - sakshigill304@gmail.com
 
 
